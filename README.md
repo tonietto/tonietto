@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently working for heycar.
+
+You can ask me about linux, the command line, vim, js, react and stuff.
