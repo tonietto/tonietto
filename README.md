@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently working for heycar.
+I am currently working for mercanis.
 
 You can ask me about linux, the command line, vim, js, react and stuff.
