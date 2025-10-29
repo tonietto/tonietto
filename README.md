@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently working for mercanis.
+I am currently working for Mozilla.
 
-You can ask me about linux, the command line, vim, js, react and stuff.
+You can ask me about cross-functional teams, devops, linux, the command line, web apps, board games and stuff.
